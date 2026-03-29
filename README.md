@@ -1,63 +1,69 @@
-# 👋 Hi, I’m Zaid Ashraf
+# 👋 Hi, I’m Zaid Ashraf | Content Creator & Full Stack Engineer
 
-### 💻 About Me:
-**Full Stack Developer | MERN Stack Enthusiast | Next.js & React.js Developer**
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=zaiddev-coder&label=Profile%20views&color=0e75b6&style=flat" alt="zaiddev-coder" />
+</p>
 
-I'm a motivated and skilled developer with hands-on experience building scalable and responsive web applications. I specialize in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), along with proficiency in **Next.js, MySQL**, and modern web development best practices. I thrive in Agile environments and love crafting clean, user-friendly UI/UX.
+### 📹 Welcome to my GitHub!
+Main **Instagram (@AapkaInstagramHandle)** par coding content create karta hoon. Agar aapne mera koi project video dekha hai, toh uska **Source Code** aapko niche "Tutorial Projects" wale section mein mil jayega. Feel free to explore and fork!
 
----
-
-### 💡 What I’ve Worked With:
-
-#### 🧠 Frontend:
-* **Frameworks:** React.js | Next.js
-* **Core:** JavaScript | HTML5 | CSS3
-* **Styling:** Tailwind CSS | Bootstrap
-
-#### 🔧 Backend:
-* **Runtime & Framework:** Node.js | Express.js | PHP
-* **Features:** REST APIs | JWT | Authentication
-
-#### 🗄️ Databases:
-* MongoDB | MySQL
-
-#### ⚙️ Tools & Platforms:
-* Git & GitHub | Visual Studio Code
-* Agile Methodology
-* Deployment (Render, Vercel)
-
-#### 💬 Programming Languages:
-* JavaScript | Python | C | C++
+> "Driven by curiosity, defined by code."
 
 ---
 
-### 🎯 Currently Learning:
-* TypeScript 
-* Unit Testing
-* Scalable Deployments & CI/CD
+### 💼 Professional Profile
+Main ek **Results-driven Full Stack Engineer** hoon. Mere paas MERN stack aur Next.js use karke scalable web applications banane ka hands-on experience hai. 
+
+* **Skilled in:** RESTful APIs, State Management, Authentication, Deployment, aur Performance Optimization.
+* **Experience:** Full Stack Developer at Qaswa Tech Pvt. Ltd. (Optimized React components, improved performance by ~30%).
 
 ---
 
-### 📂 Projects Highlights:
-* **ATS Resume Checker:** AI/ML-powered resume analyzer built with Next.js, Node.js & MySQL.
-* **School Management System:** Full-featured MERN stack app with role-based access.
-* **Portfolio Website:** Modern personal portfolio using Next.js and MongoDB.
+### 📹 Tutorial Projects (Instagram Source Code)
+*Ye repositories mere Instagram tutorials ke liye hain. Inhe star ⭐ karna na bhulein!*
+
+| Project Name | Video Link | Source Code | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **Striker Zone** (Turf Booking) | [Watch](Link_Aaega) | [Code](Link_Aaega) | Next.js, Express, MongoDB, Tailwind |
+| **Court Sync** (Judicial Mgmt) | [Watch](Link_Aaega) | [Code](Link_Aaega) | React.js, Node.js, Express, Tailwind |
+| *New Project Coming Soon* | -- | -- | -- |
 
 ---
 
-### 🤝 Open to Collaborate On:
-* Web Applications (MERN / Next.js)
-* Open-source projects & Developer communities.
+### 🚀 Tech Stack & Skills
+
+**Frontend:**
+![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Database:**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Architecture & Tools:**
+`RESTful APIs` | `RBAC` | `Auth (JWT/OAuth)` | `Git/GitHub` | `VS Code` | `Unit Testing` | `Agile`
 
 ---
 
-### 📫 How to Reach Me:
-* 📧 **Email:** zaidashraf249@gmail.com
-* 🌐 **Portfolio:** [zaid-portfolio-rb3b.vercel.app](https://zaid-portfolio-rb3b.vercel.app)
-* 🔗 **LinkedIn:** [linkedin.com/in/zaid-ashraf-58a18a265](https://linkedin.com/in/zaid-ashraf-58a18a265)
+### 🏆 Education & Certificates
+* **🎓 BCA (2025)** - G. H. Raisoni College, Nagpur (CGPA: 8.33)
+* **📜 Certificates:** Python Fundamentals, The MERN Stack & FSD, PostgreSQL Developer.
 
 ---
 
-<p align="center">
-  <i>"Driven by curiosity, defined by code."</i>
+### 📫 Connect & Collaborate
+<p align="left">
+<a href="mailto:zaidashraf249@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/AapkaInstagramHandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/zaid-ashraf-58a18a265"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
